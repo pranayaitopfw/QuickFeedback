@@ -2,3 +2,5 @@
 Flask
 qrcode[pil]
 gunicorn
+Authlib
+requests
